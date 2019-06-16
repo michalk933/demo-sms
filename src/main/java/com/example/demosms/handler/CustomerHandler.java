@@ -14,10 +14,9 @@ import static org.springframework.http.MediaType.APPLICATION_JSON_UTF8;
 import static org.springframework.web.reactive.function.BodyExtractors.toMono;
 
 /**
- * <p>
  * Handler to customer
- * </p>
- * <p>
+ *
+ *
  * Create by Michał Kuchciak
  */
 @Component

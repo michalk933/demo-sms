@@ -16,9 +16,7 @@ import static org.springframework.web.reactive.function.BodyExtractors.toMono;
 
 
 /**
- * <p>
  * Handler to service owner
- * </p>
  *
  * Create by Michał Kuchciak
  */

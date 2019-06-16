@@ -16,10 +16,8 @@ import static org.springframework.web.reactive.function.BodyExtractors.toMono;
 
 
 /**
- * <p>
  * Handler to service sms
- * </p>
- * <p>
+ *
  * Create by Michał Kuchciak
  */
 @Slf4j

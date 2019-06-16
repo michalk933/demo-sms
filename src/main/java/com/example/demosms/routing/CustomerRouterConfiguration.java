@@ -13,7 +13,7 @@ import static org.springframework.web.reactive.function.server.RouterFunctions.r
 
 /**
  * Router to service customer
- * <p>
+ *
  * Create by Michał Kuchciak
  */
 @Configuration

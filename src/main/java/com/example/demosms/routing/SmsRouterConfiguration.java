@@ -14,7 +14,7 @@ import static org.springframework.web.reactive.function.server.RouterFunctions.r
 
 /**
  * Router to service sms
- * <p>
+ *
  * Create by Michał Kuchciak
  */
 @Configuration

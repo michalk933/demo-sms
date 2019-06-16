@@ -5,6 +5,11 @@ import com.twilio.Twilio;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.context.annotation.Configuration;
 
+/**
+ * Configuration twilio
+ *
+ * Create by Michał Kuchciak
+ */
 @Configuration
 @Slf4j
 public class TwilioInitialazer {

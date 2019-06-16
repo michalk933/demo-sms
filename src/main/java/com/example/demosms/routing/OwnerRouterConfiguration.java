@@ -12,7 +12,7 @@ import org.springframework.web.reactive.function.server.ServerResponse;
 
 /**
  * Router to service owner
- * <p>
+ *
  * Create by Michał Kuchciak
  */
 @Configuration
